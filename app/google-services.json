@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "356588802039",
+    "firebase_url": "https://basecoins-14b7b.firebaseio.com",
+    "project_id": "basecoins-14b7b",
+    "storage_bucket": "basecoins-14b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356588802039:android:32543e71e65342c7",
+        "android_client_info": {
+          "package_name": "com.example.taller_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356588802039-ti8gjolgbam980klrv4ndrf27egl225v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylVfjqcu9rfdqfMOMplpKipEm3tqWaD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356588802039-ti8gjolgbam980klrv4ndrf27egl225v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356588802039:android:80705328a548bfdb",
+        "android_client_info": {
+          "package_name": "com.lovato.pdm_taller_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356588802039-ti8gjolgbam980klrv4ndrf27egl225v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylVfjqcu9rfdqfMOMplpKipEm3tqWaD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356588802039-ti8gjolgbam980klrv4ndrf27egl225v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
